@@ -31,7 +31,7 @@ jobs:
     # 4. Menjalankan skrip otomasi preprocessing yang sudah kamu buat
     - name: Run Preprocessing Script
       run: |
-        python preprocessing/automate_Nama-siswa.py
+        python preprocessing/automate_Mohammad-Aqil-Athallah.py
 
     # 5. Mengembalikan & menyimpan dataset bersih terbaru ke repositori (Syarat Advance)
     - name: Commit and Push Cleaned Data
